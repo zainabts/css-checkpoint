@@ -1,0 +1,182 @@
+header { 
+    position:fixed;
+    top: 0;
+    color: #00b39b;
+    text-align: left;
+    font-family: Work Sans,Arial,sans-serif;
+    background-color: white;
+    width: 100%;
+    
+}
+
+.nav-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#test1 {
+    color: grey;
+
+}
+
+#test1:hover{
+    color: #00b39b;
+}
+
+#test2 {
+    color: grey;
+}
+
+#test2:hover{
+    color: #00b39b;
+}
+
+#test3 {
+    color: grey;
+}
+
+#test3:hover{
+    color: #00b39b;
+}
+
+
+/* #navbar {
+    text-align: right;
+    color: grey;
+    font-family: roboto-regular;
+    display: inline;
+
+} */
+
+
+
+.intro {
+    text-align: center;
+    font-family: roboto-regular;
+}
+
+.title {
+    font-size: xx-large;
+    color: #00b39b;
+    margin: 50px;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+
+.firstp {
+    color: gray;
+    width: 95%;
+    border: 1px;
+    display: inline-block;
+    text-align: left;
+    line-height: 1.8;
+    font-family: Work Sans,Arial,sans-serif;
+}
+
+
+.forpatients {
+    background-color: #00b39b;
+    color: white;
+    font-family: Work Sans,Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 345px;
+    border-radius: 10px;
+}
+
+.fordoctors {
+    color: white;
+    background-color: #527fd3;
+    font-family: Work Sans,Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 345px;
+    border-radius: 10px;
+}
+
+.forclinics {
+    color: white;
+    background-color: #1b2734;
+    font-family: Work Sans,Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 345px;
+    border-radius: 10px;
+}
+
+.blocks {
+    display: inline-flex;
+    justify-content:space-around;
+    text-align: left;
+    border-radius: 20px;
+    width: 300px;
+    margin: 25px;
+}
+
+.title3 {
+    font-size: x-large;
+    color: #20989c;
+    font-family: Work Sans,Arial,sans-serif;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.secondsection {
+    text-align: left;
+    background-color:#e5faf8;
+    line-height: 1.7;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: none;
+    border-radius: 10px;
+    display: block;
+    background-color: white;
+    color: #00b39b;
+    margin: 15px;
+    text-align: center;  
+}
+
+#parag {
+    color: grey;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+footer {
+    color: gray;
+    font-size: smaller;
+    text-align: center;
+}
+
+#images {
+    display: inline-block;
+    padding: 200px;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: center;
+
+}
+
+#button {
+    justify-content: center;
+}
+
+.test-2{
+    border:none;
+}
+
+.othercard {
+    height: 250px;
+
+}
